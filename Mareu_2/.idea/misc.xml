@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable-anydpi/ic_address.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable-anydpi/ic_stars.xml" value="0.20038610038610039" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_account.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_address.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.20038610038610039" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.110546875" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_star_rate_32.xml" value="0.20038610038610039" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_baseline_stars_24.xml" value="0.110546875" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_person_add_white_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_star_border_white_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/drawable/ic_star_white_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout-v23/activity_detail_neighbour.xml" value="0.24909420289855072" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_add_neighbour.xml" value="0.16" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_detail_neighbour.xml" value="0.2" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_detail_neighbour2.xml" value="0.264" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/activity_list_neighbour.xml" value="0.2" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/details.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/details2.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favorite_neighbour_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_favorite_neighbour_list.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour_item.xml" value="0.176" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/layout/fragment_neighbour_list.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/OC/OpenClassrooms/Android/Entrevoisins/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable-anydpi/ic_filter.xml" value="0.283984375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable-v24/ic_plus.xml" value="0.202734375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable-xhdpi/ic_color_circle.xml" value="0.202734375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable/ic_account.xml" value="0.202734375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable/ic_baseline_brightness_1_24.xml" value="0.283984375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.202734375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/drawable/ic_baseline_playlist_add_24.xml" value="0.202734375" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/activity_add_meeting.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/activity_add_neighbour.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/activity_detail_neighbour.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/activity_list_meeting.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/date_picker.xml" value="0.271875" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/date_time_picker.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/details.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/edit_text_participant.xml" value="0.271875" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/fragment_favorite_neighbour_item.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/fragment_list_neighbour.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/fragment_meeting_list.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/fragment_neighbour_item.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/meeting_item.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/salle_filter.xml" value="0.271875" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/spinner_item_layout_resource.xml" value="0.190625" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/layout/toolbar.xml" value="0.271875" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/menu/action_mode.xml" value="0.1875" />
+        <entry key="..\:/Users/ozann/P4_2/Mareu_2/app/src/main/res/menu/menu_activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

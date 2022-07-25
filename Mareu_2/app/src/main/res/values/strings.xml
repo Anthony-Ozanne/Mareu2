@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ma réu</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="activity_detail_neighbour">Favorite neighbour</string>
+    <string name="apropos">A propos de moi</string>
+    <string name="Créer" />
+    <string name="activity_new_meeting" />
+    <string name="cr_er">Créer</string>
+    <string name="participant">Participant</string>
+    <string name="choisir_une_salle">Choisir une salle</string>
+    <string name="choisir">Choisir</string>
+    <string name="date_et_heure">Date et heure</string>
+    <string name="sujet">Sujet</string>
+    <string name="filtrer">Filtrer</string>
+
+</resources>
